@@ -1,0 +1,6 @@
+OrderID,Date,Customer,Product,Quantity,UnitPrice,Region
+1001,2025-01-05,Acme Corp,Widget A,10,25.00,East
+1002,2025-01-12,Globex Inc,Widget B,5,40.00,West
+1003,2025-02-03,Initech,Widget A,7,25.00,East
+1004,2025-02-15,Acme Corp,Widget C,3,60.00,South
+1005,2025-03-01,Globex Inc,Widget B,2,40.00,West
